@@ -14,6 +14,14 @@ By combining complementary cues from acoustic signals and linguistic content, th
 
 ---
 
+# Live Demo
+
+Try the system online:
+https://huggingface.co/spaces/Vishnu539/emotion-recognition
+(Note: Wait for the webpage to load. It may take some time)
+
+---
+
 # Project Overview
 
 Emotion recognition plays a critical role in **affective computing** and **human–computer interaction**. Humans express emotions through multiple modalities such as speech tone, facial expressions, and textual language. Relying on a single modality often leads to incomplete interpretation of emotional states.
